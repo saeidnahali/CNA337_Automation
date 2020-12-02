@@ -9,11 +9,6 @@ def print_program_info():
 if __name__ == '__main__':
     print_program_info()
     # TODO - Create a Server object
-    import os
-    name = "3.16.215.15"
-    response = os.system("ping -n 4 " + name)
     # TODO - Call Ping method and print the results
-    if response == 0:
-        print(name, 'is up!')
-    else:
-        print(name, 'is down!')
+
+print(paramiko)
