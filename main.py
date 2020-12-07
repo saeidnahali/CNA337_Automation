@@ -1,7 +1,7 @@
 # This is the template code for the CNA337 Final Project
 # Zachary Rubin, zrubin@rtc.edu
 # CNA 337 Fall 2020
-# I worked with Abdi, Dorin and Igor, Mohammad and Saeid on this code.
+# I worked with Vlado, Abdi, Dorin and Igor, Mohammad on this code.
 # Liviu Patrisco (Liviu_patrisco@hotmail.com) helped us to write the code.
 
 from Server import Server

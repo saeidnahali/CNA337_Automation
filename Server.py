@@ -1,5 +1,5 @@
 # Pinging AWS EC2 public IPv4.
-# I worked with Abdi, Dorin and Igor, Mohammad and Saeid on this code.
+# I worked with Vlado, Abdi, Dorin and Igor, Mohammad on this code.
 # Liviu Patrisco (Liviu_patrisco@hotmail.com) helped us to write the code.
 
 import os
