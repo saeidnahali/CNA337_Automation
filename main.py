@@ -9,7 +9,7 @@ from Server import Server
 
 def print_program_info():
     # TODO - Change your name
-    print("Server Automator v0.1 by Vlado Situm")
+    print("Server Automator v0.1 by SAEID NAHALI")
 
 
 # This is the entry point to our program
@@ -22,7 +22,7 @@ if __name__ == '__main__':
     my_rsa_key_file = "C:\\Users\\ALEX\\.ssh\\id_rsa"
     username = "ubuntu"
 
-    my_upgrade_command = 'sudo apt update && sudo apt upgrade -y'
+    my_upgrade_command = 'sudo apt-get update && sudo apt-get upgrade -y'
     my_server = Server(my_server_ip, my_rsa_key_file, username, my_upgrade_command)
 
     print('Pinging server %s...' % my_server_ip)
