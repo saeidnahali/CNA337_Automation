@@ -4,13 +4,12 @@
 # I worked with Vlado, Abdi, Dorin and Igor, Mohammad on this code.
 # Liviu Patrasco (liviu_patrasco@hotmail.com) helped us to write the code.
 
-
 from Server import Server
 
 
 def print_program_info():
     # TODO - Change your name
-    print("Server Automator v0.1 by SAEID NAHALI")
+    print("Server Automator v0.1 by Vlado Situm")
 
 
 # This is the entry point to our program
